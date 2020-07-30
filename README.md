@@ -1,1 +1,1 @@
-# linkbox-company.github.io
+# CDN - linkbox-company.github.io
